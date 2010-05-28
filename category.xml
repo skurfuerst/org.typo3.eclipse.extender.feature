@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.typo3.eclipse.extender.feature_1.0.0.qualifier.jar" id="org.typo3.eclipse.extender.feature" version="1.0.0.qualifier">
+      <category name="org.typo3"/>
+   </feature>
+   <category-def name="org.typo3" label="TYPO3"/>
+</site>
